@@ -16,9 +16,6 @@ def bubble_sort(n_arr)
   n_arr
 end
 
-array_of_nos = [7, 15, 1, 2, 19, 7, 25, 6]
-puts bubble_sort(array_of_nos).join(', ')
-
 def bubble_sort_by(s_arr)
   k = 0
   while k < (s_arr.length - 1)
@@ -35,7 +32,7 @@ def bubble_sort_by(s_arr)
     end
     k += 1
   end
-  puts s_arr.join(', ')
+  s_arr
 end
 
 bubble_sort_by(%w[hi hello hey]) do |left, right|
