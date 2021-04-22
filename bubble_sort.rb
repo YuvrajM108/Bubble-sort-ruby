@@ -38,6 +38,6 @@ def bubble_sort_by(s_arr)
   puts s_arr.join(', ')
 end
 
-bubble_sort_by(["hi", "hello", "hey"]) do |left, right|
+bubble_sort_by(%w[hi hello hey]) do |left, right|
   left.length <=> right.length
 end
