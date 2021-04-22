@@ -27,7 +27,7 @@ def bubble_sort_by(s_arr)
       idx_1_word = s_arr[l]
       idx_2_word = s_arr[l + 1]
       result = yield(idx_1_word, idx_2_word)
-      if result > 0
+      if result.positive?
         s_arr[l] = idx_2_word
         s_arr[l + 1] = idx_1_word
       end
