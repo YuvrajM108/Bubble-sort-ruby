@@ -13,8 +13,8 @@ In this project two methods have been built using to sort two different arrays. 
 ## Author
 
 ### Author 1
- -GitHub: @YuvrajM108
- -LinkedIn: https://www.linkedin.com/in/yuvraj-manoo-2711a91b0/
+ - GitHub: @YuvrajM108
+ - LinkedIn: https://www.linkedin.com/in/yuvraj-manoo-2711a91b0/
  
  ## Author 2
- -GitHub @Edungit
+ - GitHub @Edungit
