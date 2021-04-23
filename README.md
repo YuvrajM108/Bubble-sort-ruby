@@ -2,6 +2,10 @@
 
 In this project two methods have been built using to sort two different arrays. In order to accomplish this, each method makes use of the "bubble" sorting algorithm. This algorithm sorts an array by comparing the values of two elements in the array and switching them if they are out of order. In this way, the algorithm compares and switches elements until the entire array is sorted.
 
+The following animation shows how bubble sorting works:
+
+![Bubble sorting animation](https://stackabuse.s3.amazonaws.com/media/bubble-sort-in-java-1.gif)
+
 ## Built With
 - Ruby
 ## Getting Started
